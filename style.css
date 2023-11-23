@@ -1,0 +1,36 @@
+.pink{
+    color: pink;
+}
+#greycol{
+    color:grey 
+}
+div>p{
+    color: red;
+}
+div~p{
+    color: green;
+}
+.yellow{ 
+    color: yellow;
+}
+.daysweek{
+    color: rgb(30, 119, 89);
+}
+.first{
+    color: blueviolet;
+}
+.second{
+    color: rgb(194, 145, 73);
+}
+.fourth{
+    color: rgb(132, 0, 255);
+}
+.fifth{
+    color: rgb(0, 62, 62);
+}
+.thesixth{
+    color: fuchsia;
+}
+.seventh{
+    color: maroon;
+}
